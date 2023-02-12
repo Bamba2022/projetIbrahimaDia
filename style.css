@@ -1,0 +1,281 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(15, 3, 179);
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+  }
+  
+  
+  nav a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+    
+  }
+
+   
+  
+  section section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+    /* Profil */
+  
+  .profile {
+    text-align: center;
+    background-color: rgb(32, 23, 158);
+    margin-top: 20px;
+    padding-top: 50;
+    width: 950px;
+    height: 500;
+    
+  }
+  .profile h2{
+    color: white;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+  }
+
+  
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    
+  }
+
+
+  /* Formation */
+
+
+
+  .formation {
+    text-align: center;
+    background-color: white;
+    margin-top: 2px;
+    
+  }
+  
+  .formation img {
+   
+    width: 400px;
+    height: 150px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    transition: transform 1s;
+  }
+
+  
+
+  .formation li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: blue;
+
+  }
+
+
+     /* Compétence */
+
+
+  .competence {
+    text-align: center;
+    background-color: rgb(187, 144, 4);
+    margin-top: 2px;
+    
+  }
+  
+  .competence img {
+   
+    width: 600px;
+    height: 150px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  
+
+  .competence li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+
+  }
+
+  /* Qualite personnelle */
+
+  .qualiPerson {
+    text-align: center;
+    background-color: rgb(32, 23, 158);
+    margin-top: 30px;
+    height: 500px;
+   
+    
+  }
+  .qualiPerson h2{
+    color: white;
+  }
+  
+  .qualiPerson img {
+    
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    
+  }
+
+
+  /* Experience */
+
+
+  .experience {
+    text-align: center;
+    background-color: rgb(35, 231, 146);
+    margin-top: 30;
+   height: 550px;
+   padding-bottom: 20px;    
+  }
+  
+  .experience img {
+   
+    width: 600px;
+    height: 150px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  
+
+  .experience li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+
+  }
+
+
+
+
+  /* Reference */
+
+
+  .reference {
+    text-align: center;
+    background-color: rgb(26, 48, 246);
+    margin-top: 80px;
+   padding-bottom: 20px;
+   width: 900px; 
+   height: 600px;   
+  }
+  
+  .reference img {
+   
+    width: 200px;
+    height: 120px;
+     
+    
+    padding-top: 30px;
+   
+    
+    
+  }
+
+  /* Centre Interet */
+
+  .cenint {
+    text-align: center;
+    background-color: rgba(251, 223, 17, 0.771);
+    margin-top: 100px;
+
+    
+  }
+  
+  .cenint img {
+   
+    width: 500px;
+    height: 150px;
+    margin-bottom: 20px;
+    padding-top: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+
+  
+
+  .cenint li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(1, 1, 133);
+
+  }
+
+  
+
+ 
+
+  
+  
+  
+
+
+  
+  
